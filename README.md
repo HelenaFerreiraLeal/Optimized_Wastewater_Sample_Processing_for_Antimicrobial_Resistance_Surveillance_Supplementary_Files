@@ -21,7 +21,7 @@
 #S16. Script_Speed_ARGs.R: This R script provides the framework for processing and analyzing the data on the impact of different centrifugation speeds on ARG prevalence.
 #S17. NanodropQubitDataSet.xlsx: A dataset that includes the DNA quantification results obtained from both the NanoDrop One™ and Invitrogen™ Qubit™ 4 instruments, as well as from qPCR measurements of the 16S rRNA gene.
 #S18. Script_NanodropQubit.R: This R script file contains the code used for analyzing and comparing the DNA quantification results from the NanoDrop One™ and Invitrogen™ Qubit™ 4 instruments.
-
+FASTQ files can be found here: https://udemontreal-my.sharepoint.com/:u:/g/personal/helena_ferreira_leal_de_carvalho_toledo_umontreal_ca/EcB_Iw0xEptEgZbFDBEhIo8B_gWp5tpP5vpU2qg-1aAFUA?e=g2V0lA
 #Contact
 #For inquiries or further information, please contact:
 #Helena Ferreira Leal,  MSc | PhD Candidate in Microbiology 
